@@ -11,8 +11,7 @@
                     </a>
                     ：
                      <c:out value="${task.content}" />
-                     <c:out value="${task.created_at }"/>
-                     <c:out value="${task.updated_at }"/>
+
 
                 </li>
             </c:forEach>
